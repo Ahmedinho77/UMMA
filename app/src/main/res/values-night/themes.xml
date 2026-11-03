@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.UMMA" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#81C784</item>
+        <item name="colorSecondary">@color/umma_secondary</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+    </style>
+</resources>
